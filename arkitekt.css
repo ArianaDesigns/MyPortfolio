@@ -11,6 +11,13 @@ body {
   font-family: Playpen Sans, cursive;
   margin: 0;
 }
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
 h1 {
   font-family: Myfont;
   text-align: center;
