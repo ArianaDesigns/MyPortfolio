@@ -100,3 +100,9 @@ iframe {
   width: 100%;
   height: 100%;
 }
+
+.pdf-viewer iframe {
+    width: 100%;
+    height: 100%;
+    border: none; /* Removes the default iframe border */
+}
